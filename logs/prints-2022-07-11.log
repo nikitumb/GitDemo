@@ -1,0 +1,6 @@
+13:31:54.018 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa455d809f8d5350e
+13:31:55.054 [TestNG-tests-2] INFO  resources.base - Validate title Driver is initilize
+13:31:55.120 [TestNG-tests-4] INFO  resources.base - Home page Driver is initilize
+13:31:55.236 [TestNG-tests-3] INFO  resources.base - Home page Driver is initilize
+13:31:55.508 [TestNG-tests-1] INFO  resources.base - Valiodate Navigation Driver is initilize
+13:32:37.047 [TestNG-tests-2] INFO  resources.base - Validate title Navigated to HOME PAGE
