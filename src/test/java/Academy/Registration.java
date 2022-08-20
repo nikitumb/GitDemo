@@ -50,7 +50,10 @@ public void registerNewUser(String Firstname, String EmailAddress, String Pass) 
 		log.info("Reg succesfully");
 		driver.get(prop.getProperty("singupurl"));
 
-		System.out.println("This is code made by Indian QA")
+		System.out.println("This is code made by Indian QA");
+		System.out.println("This is code made by US QA1");	
+		System.out.println("This is code made by US QA2");
+		System.out.println("This is code made by US QA3");
 	}
 	
 	@DataProvider
