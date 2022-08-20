@@ -35,6 +35,8 @@ public class HomePage extends base{
 	public void basePageNavigation(String Username, String Password, String text) throws IOException
 	{
 		// this is architech #1 code merged in DEVELOP branch
+			
+		// Code by US Architech
 		
 		
 	}
@@ -44,13 +46,15 @@ public class HomePage extends base{
 	public Object[][] getData()
 	{
 	
-		// this is architech #1 code merged in DEVELOP branch				
+		// this is architech #1 code merged in DEVELOP branch		
+		// Code by US Architech		
 	}
 	
 	@AfterTest
 	public void teardrow()
 	{
 				// this is architech #1 code merged in DEVELOP branch
+				// Code by US Architech
 	}
 	
 }
