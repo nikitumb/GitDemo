@@ -49,6 +49,8 @@ public void registerNewUser(String Firstname, String EmailAddress, String Pass) 
 		//log.info("Registration successfully completed");
 		log.info("Reg succesfully");
 		driver.get(prop.getProperty("singupurl"));
+
+		System.out.println("This is code made by Indian QA")
 	}
 	
 	@DataProvider
